@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Coursework" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#59B65D</item>
+    </style>
+
+    <style name="Theme.Coursework" parent="Base.Theme.Coursework" />
+
+    <style name="bt_delete" >
+        <item name="android:backgroundTint">@color/red</item>
+    </style>
+
+    <style name="bt_normal" >
+        <item name="android:backgroundTint">@color/green</item>
+    </style>
+</resources>

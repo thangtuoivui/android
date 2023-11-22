@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Coursework</string>
+
+    <string name="hikeName" size="20dp">Name of the hike<font color="@android:color/red" size="15"><sup>*</sup></font></string>
+    <string name="hikeLocation" size="20dp">Location of the hike<font color="@android:color/red" size="15"><sup>*</sup></font></string>
+    <string name="hikeDate" size="20dp">Date of the hike<font color="@android:color/red" size="15"><sup>*</sup></font></string>
+    <string name="hikePark" size="20dp">Parking available<font color="@android:color/red" size="15"><sup>*</sup></font></string>
+    <string name="hikeLength" size="20dp">Length of the hike<font color="@android:color/red" size="15"><sup>*</sup></font></string>
+    <string name="hikeDifficult" size="20dp">Difficult level<font color="@android:color/red" size="15"><sup>*</sup></font></string>
+    <string name="hikeDescription" size="20dp">Descriptions<font color="@android:color/red" size="15"><sup>*</sup></font></string>
+
+    <string-array name="dif">
+        <item>EASY</item>
+        <item>MEDIUM</item>
+        <item>HIGH</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
